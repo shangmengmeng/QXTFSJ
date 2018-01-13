@@ -5,4 +5,5 @@ package app.huangtong.baselibrary.base_fragment;
  */
 
 public class BaseFragment {
+
 }

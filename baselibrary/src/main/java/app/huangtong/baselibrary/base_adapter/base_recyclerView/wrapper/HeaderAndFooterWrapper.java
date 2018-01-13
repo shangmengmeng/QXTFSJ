@@ -6,8 +6,8 @@ import android.support.v7.widget.RecyclerView;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.example.administrator.adressbooks.base.hongyangadapter.recycler.base.ViewHolder;
-import com.example.administrator.adressbooks.base.hongyangadapter.recycler.utils.WrapperUtils;
+import app.huangtong.baselibrary.base_adapter.base_recyclerView.base.ViewHolder;
+import app.huangtong.baselibrary.base_adapter.base_recyclerView.utils.WrapperUtils;
 
 
 /**
